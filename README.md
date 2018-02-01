@@ -4,7 +4,7 @@
 
 - Se ha mavenizado el proyecto, para construir el jar y ejecutarlo:
 
-`git clone https://github.com/jeff1191/lcdrefactor.git`
+`git clone https://github.com/jeff1191/lcdrefactor.git; cd lcdrefactor`
 
 `mvn clean package`
 
