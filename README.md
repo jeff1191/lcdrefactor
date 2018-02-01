@@ -1,3 +1,10 @@
+# Modificación
+- La aplicación tiene dos modos: <swing|console> que se deberá introducir cuando se inicia el programa
+- Se ha mavenizado el proyecto, para construir el jar y ejecutarlo:
+`git clone https://github.com/jeff1191/lcdrefactor.git`
+`mvn clean package`
+`java -jar LCDRefactor-v1.0-SNAPSHOT.jar <swing|console>`
+
 # LCD refactor
 
  
